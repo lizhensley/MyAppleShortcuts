@@ -1,5 +1,5 @@
 # Apple Shortcuts
-A list of shortcuts I've created for MacOS and iOS
+A list of useful shortcuts MacOS and iOS
 
 - [Join Next Meeting](https://www.icloud.com/shortcuts/14e7cc430ac84ed5b11359b7eed9b327)
     - Finds your next upcoming meeting with a Google Meet or Zoom link, parses that URL, and joins that meeting
