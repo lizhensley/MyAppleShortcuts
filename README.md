@@ -9,7 +9,7 @@ The use cases for these are general enough that hopefully most people will find 
 
 ### Developer Shortcuts
 Shortcuts for development workflows
-- [Commit & Push Code Changes](https://www.icloud.com/shortcuts/9ab3586273ac49559e4c08ea493ce1d3)
+- [Commit & Push Code Changes](https://www.icloud.com/shortcuts/5db00b1cd17d41969306f50b784b2879)
      - Up front it will ask you what root folder your dev projects are in
      - When the shortcut runs, it will ask you what project you would like to commit changes in
      - Also includes prompts for commit message & branch name
