@@ -7,6 +7,14 @@ The use cases for these are general enough that hopefully most people will find 
     - Finds your next upcoming meeting with a Google Meet or Zoom link, parses that URL, and joins that meeting
     - For Zoom meetings, joins in the native desktop app instead of opening the URL in the browser
 
+### Developer Shortcuts
+Shortcuts for development workflows
+- [Commit & Push Code Changes](https://www.icloud.com/shortcuts/9ab3586273ac49559e4c08ea493ce1d3)
+     - Up front it will ask you what root folder your dev projects are in
+     - When the shortcut runs, it will ask you what project you would like to commit changes in
+     - Also includes prompts for commit message & branch name
+     - Assumes no merge issues
+
 ### Personalized Shortcuts
 These shortcuts are tailored to my workflow preferences, but could be edited to be useful for other people.
 
