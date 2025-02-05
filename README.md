@@ -2,7 +2,7 @@
 ### General Use Shortcuts
 - [Join Next Meeting](https://www.icloud.com/shortcuts/43b64d87b7dc4523ae9a86995eee02e4)
     - Finds your next upcoming meeting with a Google Meet or Zoom link, parses that URL, and joins that meeting
-    - For Zoom meetings, if the user has the native Zoom app downloaded, joins in the native desktop app instead of opening the URL in the browser
+    - For Zoom meetings, if the user has the native Zoom app downloaded, joins in the app instead of opening the URL in the browser
     - Assumes that your calendar of choice is synced with Apple's native Calendar app
 - [Summarize My Emails](https://www.icloud.com/shortcuts/774a665fff894c9ba3e2309c33fcd7a8)
     - Opens Apple Intelligence and types "Summarize my emails for today" 🤪
